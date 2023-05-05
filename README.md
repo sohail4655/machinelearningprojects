@@ -1,6 +1,2 @@
-# Face-Mask-Detection
-Face Mask Detection With Deep Learning
-
-![Alt Text](https://i.giphy.com/media/Pj08zaSxNV2zBjPwer/giphy.webp)
-
-https://www.youtube.com/watch?v=rsuNcQQgYy0
+https://github.com/Furkan-Gulsen/Face-Mask-Detection/tree/master/dataset
+https://drive.google.com/drive/folders/1MMRRVwKaXq710mDS8NWVKA2EqsaP7Hv5
